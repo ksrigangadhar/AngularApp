@@ -4,7 +4,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Installation
 1.Install angular globally:
 npm install -g @angular/cli
+
 2. Clone the "AngularApp" repository. The "master" repository contains the Angular 8 demo app, use the branch "angular8" for a demo app with support for your respective version
+
 3.Run npm install to install all dev dependencies.
 
 ## Development server
